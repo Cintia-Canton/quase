@@ -1,0 +1,166 @@
+html, body {
+    margin: 0px;
+}
+#imagem_fundo {
+    background: url("Imagens/fundo-2.jpg");
+    height: 600px;
+    text-align: center;
+    background-size: cover;
+}
+#Título {
+    color: white ;
+    padding-top: 3%;
+    font-size: 45px;
+   
+}
+#Subtítulo {
+    color: white;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 25%;
+    margin-top: 3px solid white;
+    margin-left: 3px 3px black;
+}
+
+body {
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+}
+h4 {
+    color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h3 { 
+    color: black;
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    font-style: bold;
+    text-align: left;
+}
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+    width: 5%;
+}
+#Botão-ação {
+    color:white;
+    margin-top: 70px;
+    border: 2px white solid;
+    padding: 15px 15px 15px 15px;
+    //topo, esquerda, baixo, direita
+}
+.destaque {
+    background-color: #f7f7f7;
+    padding: 1px;
+    padding-top: 1px;
+}
+.infiel {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+#Meta {
+    padding: 2%;
+    text-align: center;
+}
+.ícones {
+    width: 20%;
+    height: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ícones2 {
+    width: 50%;
+    height: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#Propostas {
+
+}
+.ícones3 {
+    width: 70%;
+    height: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.coluna {
+    float: left;
+    padding: 1,5%;
+    position: relative;
+    width: 40%;
+}
+.colunatres {
+    float: left;
+    padding: 2%;
+    position: relative;
+    width: 27%;
+}
+#espaço {
+    padding-left:  2%;
+}
+p {
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 20px;
+}
+#central {
+    text-align: center;
+}
+#justifi {
+    text-align: justify;
+}
+.borda {
+    align-items: center;
+    border: 7px gray solid;
+    padding: 2px;
+}
+#imagem {
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+    border: 3px gray solid;
+    padding: 1px;
+}
+#Limagem {
+    margin-top: 6px;
+}
+#Salário {
+    margin-left: 20px;
+    margin-right: 20px;
+    float: right;
+    border: gray solid;
+    padding: 1px;
+    margin-top: -2px;
+}
+#Referência {
+    font-size: 13px;
+}
+#ranking {
+    float: left;
+    border: gray solid;
+    padding: 1px;
+    margin-left: 40px;
+    margin-right: 20px;
+    margin-top: -10px;
+}
+#Autor {
+    margin-left: 20px;
+    font-size: 15px;
+    margin-top: 35px;
+}
